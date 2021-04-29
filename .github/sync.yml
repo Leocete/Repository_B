@@ -1,0 +1,3 @@
+Leocete/Repository_A:
+  - source: src/docs/
+  - dest: docs/
